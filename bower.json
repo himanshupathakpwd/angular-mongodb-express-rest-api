@@ -1,0 +1,24 @@
+{
+  "name": "myApp",
+  "description": "Basic Angular Express Mongo application",
+  "main": "app.js",
+  "authors": [
+    "Himanshu Pathak <himanshupathakpwd@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/himanshupathakpwd/angular-mongodb-express-rest-api",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-ui-router": "^0.3.2",
+    "angular-resource": "^1.6.1",
+    "angular-bootstrap": "^2.4.0",
+    "bootstrap": "^3.3.7"
+  }
+}
